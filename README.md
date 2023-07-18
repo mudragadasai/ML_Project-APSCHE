@@ -4,7 +4,7 @@
 
 This is a assignment project in APSCHE provided by IBM skillsbuild.
 
-I used Logical regression to find out the employee burnout and analysis.
+I used Linear regression to find out the employee burnout and analysis.
 
 You can find the Code in the above notebook and also data is in train.csv
 
